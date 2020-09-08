@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Sep  8 07:56:14 2020
+[*]
+[dumpfile] "/home/antailbaxt3r/Academics/3-1/CompArch/Labs/Lab2/test_Lab2.vcd"
+[dumpfile_mtime] "Tue Sep  8 07:49:10 2020"
+[dumpfile_size] 221010
+[savefile] "/home/antailbaxt3r/Academics/3-1/CompArch/Labs/Lab2/2019A7PS0182G_Lab2.gtkw"
+[timestart] 0
+[size] 1920 1009
+[pos] -51 -51
+*-4.239742 28 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 255
+[signals_width] 233
+[sst_expanded] 1
+[sst_vpaned_height] 281
+@24
+testbench.uut.clk
+[color] 7
+testbench.uut.regRs[31:0]
+[color] 7
+testbench.uut.regRt[31:0]
+testbench.uut.rd0[4:0]
+testbench.uut.rd1[4:0]
+testbench.uut.regWrite
+testbench.uut.reset
+testbench.uut.rs[4:0]
+testbench.uut.rt[4:0]
+testbench.uut.select
+testbench.uut.writeData[31:0]
+[color] 7
+testbench.uut.decOut[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
